@@ -2,13 +2,13 @@
  * @Author: Sirius-kk
  * @Date: 2021-09-26 12:31:24
  * @LastEditors: Sirius-kk
- * @LastEditTime: 2021-09-26 20:44:38
- * @FilePath: \JS\testaa\JS_superficial\README.md
+ * @LastEditTime: 2021-09-26 20:59:06
+ * @FilePath: \JS\JS_superficial\README.md
 -->
 # JS_superficial
-## 1. /page JS参与的简单页面实现
-## 2. /summary JS小总结
-## 3. /code_snippet JS代码片段
+## 1. /page_html JS参与的简单页面实现
+## 2. /summarys JS小总结
+## 3. /code_snippets JS代码片段
 
 
 
