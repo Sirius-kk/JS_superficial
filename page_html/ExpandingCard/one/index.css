@@ -1,0 +1,36 @@
+* {
+  margin    : 0;
+  padding   : 0;
+  box-sizing: border-box;
+}
+
+html {
+  width          : 100vw;
+  height         : 100vh;
+  display        : flex;
+  justify-content: center;
+  align-items    : center;
+  overflow       : hidden;
+}
+
+.container {
+  width  : 90vw;
+  display: flex;
+}
+
+.container>.card {
+  padding            : 10px;
+  margin             : 10px;
+  height             : 90vh;
+  background-position: center;
+  background-size    : cover;
+  background-repeat  : no-repeat;
+  border-radius      : 10px;
+  flex               : .5;
+  cursor             : pointer;
+  transition         : flex .5s ease-in-out;
+}
+
+.container>.card.show {
+  flex: 5;
+}
